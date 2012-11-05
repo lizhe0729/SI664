@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+
+#Login {
+	margin-top: 50px;
+	margin-left: 267px;
+	width: 400px;
+	height: 200px;
+	border-collapse: collapse;
+}
+
+#Row1{
+	border: 1px black solid;
+}
+
+#Row2{
+	border: 1px black solid;
+}
+
+#Row3{
+	border-left: 1px black solid;
+	border-right: 1px black solid;
+}
+
+#Row4{
+	border-left: 1px black solid;
+	border-right: 1px black solid;
+	border-bottom: 1px black solid;
+}
